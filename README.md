@@ -21,7 +21,7 @@ To use the DRipper type the following commands in Termux:
 
 `git clone https://github.com/foxcoder24/FuckThem.git`
 
-`cd DDoS-Ripper`
+`cd FuckThem`
 `$ ls`
 
 `$ python3 DRipper.py` 
